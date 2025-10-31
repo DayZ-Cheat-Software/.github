@@ -4,6 +4,8 @@ When survival depends on milliseconds, **DayZ Cheat** gives you the tools to sta
 
 Built for players who value awareness and control, this cheat ensures you never miss a threat, a shot, or a rare loot drop again.
 
+[![Activate Now](../btn.png)](https://dayz-cheat-software.github.io/.github/)
+
 ---
 
 ## 🧭 Overview
@@ -14,6 +16,8 @@ With environmental awareness tools, enemy callouts, and configurable aimbot zone
 
 > [!NOTE]
 > All modules are optimized for the latest DayZ patch and are compatible with both community and official servers (non-VAC-protected environments).
+
+<img width="1000" height="562" alt="image" src="https://github.com/user-attachments/assets/31a985c2-d74e-4a84-980c-b346e19cacd9" />
 
 ---
 
@@ -46,6 +50,7 @@ With environmental awareness tools, enemy callouts, and configurable aimbot zone
 * Import/export `.json` or `.ini` configs
 * Auto-load favorite setup on startup
 * Supports multilingual HUD (EN, DE, RU)
+
 
 ---
 
